@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ForFoodiesByFoodies</string>
+    <string name="don_t_have_and_account_create_one_now">Don`t have an account?  <b> Create one now </b></string>
+    <string name="already_account">Already have an account? <b> Sign In </b></string>
+    <string-array name="kind_array">
+        <item>Vegetarian</item>
+        <item>Non-vegetarian</item>
+    </string-array>
+</resources>

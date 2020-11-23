@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829782282705",
+    "firebase_url": "https://forfoodiesbyfoodies-91e94.firebaseio.com",
+    "project_id": "forfoodiesbyfoodies-91e94",
+    "storage_bucket": "forfoodiesbyfoodies-91e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829782282705:android:ebb16d0292acd6aed4d0f0",
+        "android_client_info": {
+          "package_name": "edu.catalin.forfoodiesbyfoodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829782282705-mfkr7e4mncrbrp86hon7kcce49i516k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jtetI7mfdwX_3Ejy2jjRuhtOL5xEA9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829782282705-mfkr7e4mncrbrp86hon7kcce49i516k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
